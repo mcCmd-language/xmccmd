@@ -1,6 +1,6 @@
 # eXtended mcCmd (XmcCmd)
 
-this is experimental JIT-accelerated interpreter for mcCmd language.
+this is experimental interpreter for mcCmd language.
 
 ## Requirements
 
