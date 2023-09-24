@@ -3,5 +3,6 @@
     @ iusearchbtw[type=string,value=c];
     /say "@iusearchbtw*";
     /say "sus";
+    /say "@a*";
 #;
 /a 1 3;
